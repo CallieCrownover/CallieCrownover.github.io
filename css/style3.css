@@ -63,8 +63,8 @@ body {
   
 
   input[type=submit] {
-    background-color: #F9625B;
-    color: white;
+background-color: #ACE4CB;
+color: #3B3C40;
     padding: 12px 20px;
     border: none;
     cursor: pointer;
@@ -72,7 +72,7 @@ body {
   
 
   input[type=submit]:hover {
-    background-color: #F9625B;
+    background-color: #ACE4CB;
   }
   
 
@@ -97,6 +97,26 @@ body {
     content: "";
     display: table;
     clear: both;
+  }
+
+  .gitHub {
+    color: #3B3C40;
+    background-color: #F9625B;
+    border: none;
+  }
+
+
+  .linkedIn {
+    color: #3B3C40;
+    background-color: hsl(340, 91%, 77%);
+    border: none;
+    margin: 20px;
+  }
+
+  .resume {
+    color: #3B3C40;
+    background-color: #FFD8E4;
+    border: none;
   }
   
 
