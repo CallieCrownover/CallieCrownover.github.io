@@ -99,21 +99,21 @@ color: #3B3C40;
     clear: both;
   }
 
-  .GITHUB {
+  .gitHub {
     color: #3B3C40;
     background-color: #F9625B;
     border: none;
   }
 
 
-  .LINKEDIN {
+  .linkedIn {
     color: #3B3C40;
     background-color: hsl(340, 91%, 77%);
     border: none;
     margin: 20px;
   }
 
-  .RESUME {
+  .resume {
     color: #3B3C40;
     background-color: #FFD8E4;
     border: none;
